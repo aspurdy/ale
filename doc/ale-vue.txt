@@ -3,6 +3,13 @@ ALE Vue Integration                                           *ale-vue-options*
 
 
 ===============================================================================
+eslint                                                         *ale-vue-eslint*
+
+Vue support for ESLint is provided through eslint-plugin-vue
+(https://github.com/vuejs/eslint-plugin-vue).
+See |ale-javascript-eslint| for information about the available options.
+
+===============================================================================
 prettier                                                     *ale-vue-prettier*
 
 See |ale-javascript-prettier| for information about the available options.
